@@ -1,7 +1,7 @@
-# PyBer Analysis Challenge
+# PyBer Analysis 
 
-## Overview
-The purpose of this analysis is to get a summary of the data sorted by the types Rural, Urban, and Suburban. Within the new summary we will look at the; Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per driver in the respective types. This new summary of the data will be crucial when making business decisions to help the overall business.
+## Goal
+The goal of this project is to analyze ride sharing data to determine where the business is most profitable and help with business decisions regarding allocation of company resources. The fist step of this analysis is to get a summary of the data sorted by the types Rural, Urban, and Suburban. Within the new summary we will look at the; Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per driver in the respective types.
 
 ### Process
 1. Use the merged data from city_data.csv and ride_data.csv.
